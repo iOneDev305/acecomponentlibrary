@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "acelibrary"
 include(":acelibrary")
+include(":sampleapp")
